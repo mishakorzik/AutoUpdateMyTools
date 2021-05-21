@@ -21,16 +21,8 @@ print("# \033[1;34m[ 3 ] >> \033[1;36;40mOther")
 op=int(raw_input("Options: "))
 
 if(op==1):
- os.system("cd")
- os.system("cd AutoUpdateMyTools")
- os.system("cd Proxy")
- os.system("bash ProxySetup.sh")
+ print "good."
 elif(op==2):
- os.system("cd")
- os.system("cd AutoUpdateMyTools")
- os.system("cd Proxy")
- os.system("bash ProxySetupLinux.sh")
+ print "okay."
 elif(op==3):
- os.system("cd")
- os.system("cd Free-Proxy && cd packages")
- os.system("bash OtherInstall.sh")
+ print "succes."
