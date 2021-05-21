@@ -23,12 +23,12 @@ op=int(raw_input("Options: "))
 if(op==1):
  os.system("cd")
  os.system("cd AutoUpdateMyTools")
- os.system("cd Proxy
+ os.system("cd Proxy")
  os.system("bash ProxySetup.sh")
 elif(op==2):
  os.system("cd")
  os.system("cd AutoUpdateMyTools")
- os.system("cd Proxy
+ os.system("cd Proxy")
  os.system("bash ProxySetupLinux.sh")
 elif(op==3):
  os.system("cd")
