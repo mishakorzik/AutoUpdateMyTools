@@ -9,7 +9,7 @@ cd
 cd
 rm -rf Free-Proxy
 git clone https://github.com/mishakorzik/Free-Proxy
-cd Free-Proxy
+cd AutoUpdateMyTools
 python2 What1.py
 sleep 1
 cd 
@@ -21,5 +21,5 @@ echo "██║░░██║██║░░██║██║╚████�
 echo "██████╔╝╚█████╔╝██║░╚███║███████╗"
 echo "╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝"
 echo Developer: mishakorzhik
-echo created on: 20 05 2021
+echo Create on: 21 05 2021
 echo Run command: bash FreeProxy.sh
