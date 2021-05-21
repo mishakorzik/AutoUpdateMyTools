@@ -11,6 +11,7 @@ rm -rf Free-Proxy
 git clone https://github.com/mishakorzik/Free-Proxy
 cd Free-Proxy
 python2 What1.py
+sleep 1
 cd 
 cd Free-Proxy
 echo "██████╗░░█████╗░███╗░░██╗███████╗"
