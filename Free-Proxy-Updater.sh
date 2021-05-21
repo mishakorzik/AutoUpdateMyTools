@@ -26,4 +26,6 @@ echo "██████╔╝╚█████╔╝██║░╚███�
 echo "╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝"
 echo Developer: mishakorzhik
 echo Create on: 21 05 2021
-echo Run command: bash FreeProxy.sh
+echo "PLEASE WRITE THE COMMAND cd"
+echo "Run command: bash FreeProxy.sh"
+
