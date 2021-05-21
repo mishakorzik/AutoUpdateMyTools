@@ -10,7 +10,6 @@ cd
 rm -rf Free-Proxy
 git clone https://github.com/mishakorzik/Free-Proxy
 cd Free-Proxy
-bash Setup.sh
 bash SetupLinux.sh
 cd 
 cd Free-Proxy
