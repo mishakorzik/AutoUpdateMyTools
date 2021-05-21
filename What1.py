@@ -28,7 +28,7 @@ elif(op==2):
  os.system("cd")
  os.system("cd Free-Proxy")
  os.system("bash SetupLinux.sh")
-elif(op==3)
+elif(op==3):
  os.system("cd")
  os.system("cd Free-Proxy && cd packages")
  os.system("bash OtherInstall.sh")
