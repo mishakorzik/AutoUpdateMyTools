@@ -10,7 +10,7 @@ cd
 rm -rf Free-Proxy
 git clone https://github.com/mishakorzik/Free-Proxy
 cd Free-Proxy
-bash SetupLinux.sh
+python2 What1.py
 cd 
 cd Free-Proxy
 echo "██████╗░░█████╗░███╗░░██╗███████╗"
