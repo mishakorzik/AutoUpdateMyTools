@@ -20,7 +20,7 @@ print("# \033[1;34m[ 3 ] >> \033[1;36;40mOther")
 
 op=int(raw_input("Options: "))
 
-elif(op==1):
+if(op==1):
  os.system("cd")
  os.system("cd Free-Proxy")
  os.system("bash Setup.sh")
