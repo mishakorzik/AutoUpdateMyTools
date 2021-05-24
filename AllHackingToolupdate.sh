@@ -7,7 +7,7 @@ echo "░╚═════╝░╚═╝░░░░░╚═════╝�
 cd 
 cd
 rm -rf AllHackingTools
-git clone https://github.com/mishakorzik/AllHackingToolscd AutoUpdateMyTools
+git clone https://github.com/mishakorzik/AllHackingTools && cd AutoUpdateMyTools
 python2 What1.py
 cd 
 cd
@@ -53,4 +53,7 @@ echo "██████╔╝╚█████╔╝██║░╚███�
 echo "╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝"
 echo Developer: mishakorzhik
 echo Create on: 24 05 2021
-echo "PLEASE WRITE THE COMMAND cd"
+sleep 2 
+cd  
+cd AllHackingTools
+python2 MainMenu.py
