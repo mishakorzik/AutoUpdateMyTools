@@ -7,7 +7,9 @@ echo "░╚═════╝░╚═╝░░░░░╚═════╝�
 cd 
 cd
 rm -rf AllHackingTools
-git clone https://github.com/mishakorzik/AllHackingTools && cd AutoUpdateMyTools
+git clone https://github.com/mishakorzik/AllHackingTools
+cd AutoUpdateMyTools
+sleep 1
 python2 What1.py
 cd 
 cd
