@@ -18,6 +18,8 @@ sleep 1
 cd AllHackingTools
 bash Install.sh
 sleep 2
+echo "Starting AllHackingTools"
+sleep 3
 cd  
 cd
 cd AllHackingTools
