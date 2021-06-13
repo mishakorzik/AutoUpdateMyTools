@@ -24,6 +24,12 @@ sleep 0.7
 clear
 cd
 cd
+cd AllHackingTools
+cd Termux-Banner
+bash remove.sh
+clear
+cd
+cd
 rm -rf msdconsole
 rm -rf AllHackingTools
 echo -e $w"["$o"SYSTEM"$w"]"$b"Removed succefull! AllHackingTools has deleted!"$w
