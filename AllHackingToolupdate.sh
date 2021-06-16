@@ -23,7 +23,6 @@ rm -rf AllHackingTools
 git clone https://github.com/mishakorzik/AllHackingTools
 cd AutoUpdateMyTools
 sleep 1
-python2 What1.py
 bash Files/Inf.sh
 cd 
 cd
