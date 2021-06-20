@@ -54,6 +54,7 @@ cd
 cd
 cd .termux
 rm -rf termux.properties
+rm -rf .zshrc
 cd
 cd
 echo -e $w"["$o"SYSTEM"$w"]"$b"Removed succefull! AllHackingTools has deleted!"$w
