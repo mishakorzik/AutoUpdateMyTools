@@ -50,6 +50,12 @@ cd /data/data/com.termux/files/usr/bin/
 rm -rf msdconsole
 rm -rf msdconsoleUPD
 rm -rf msdc
+cd
+cd
+cd .termux
+rm -rf termux.properties
+cd
+cd
 echo -e $w"["$o"SYSTEM"$w"]"$b"Removed succefull! AllHackingTools has deleted!"$w
 sleep 1
 cd
