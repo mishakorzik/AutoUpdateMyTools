@@ -46,8 +46,12 @@ clear
 cd
 cd
 rm -rf AllHackingTools
-cd cd /data/data/com.termux/files/usr/bin/
+cd /data/data/com.termux/files/usr/bin/
 rm -rf msdconsole
+rm -rf msdconsoleUPD
+rm -rf msdc
 echo -e $w"["$o"SYSTEM"$w"]"$b"Removed succefull! AllHackingTools has deleted!"$w
 sleep 1
+cd
+cd
 
