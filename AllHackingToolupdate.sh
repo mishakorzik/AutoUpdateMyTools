@@ -12,6 +12,7 @@ rm -rf msdconsole
 cd AllHackingTools
 cd termux-style
 ./uninstall
+clear
 cd
 cd
 cd AllHackingTools
