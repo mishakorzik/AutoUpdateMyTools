@@ -15,11 +15,6 @@ cd termux-style
 clear
 cd
 cd
-cd AllHackingTools
-cd Termux-Banner
-bash remove.sh
-cd
-cd
 rm -rf AllHackingTools
 git clone https://github.com/mishakorzik/AllHackingTools
 cd AutoUpdateMyTools
