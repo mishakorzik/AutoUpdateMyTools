@@ -30,5 +30,4 @@ echo "Starting AllHackingTools"
 sleep 3
 cd  
 cd
-cd AllHackingTools
-bash src/AllHackingTool.sh
+msdconsole
