@@ -50,6 +50,7 @@ cd /data/data/com.termux/files/usr/bin/
 rm -rf msdconsole
 rm -rf msdconsoleUPD
 rm -rf msdc
+rm -rf msdServer
 cd
 cd
 cd .termux
