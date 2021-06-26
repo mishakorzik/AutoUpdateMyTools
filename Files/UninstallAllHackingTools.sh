@@ -58,6 +58,9 @@ rm -rf termux.properties
 rm -rf .zshrc
 cd
 cd
+rm -rf AdminHack
+cd
+cd
 echo -e $w"["$o"SYSTEM"$w"]"$b"Removed succefull! AllHackingTools has deleted!"$w
 sleep 1
 cd
