@@ -51,10 +51,17 @@ rm -rf msdconsole
 rm -rf msdconsoleUPD
 rm -rf msdc
 rm -rf msdServer
+rm -rf msd
+rm -rf ms
+rm -rf m
+rm -rf sys
+rm -rf system
 cd
 cd
 cd .termux
 rm -rf termux.properties
+rm -rf termux.properties1
+rm -rf termux.properties2
 rm -rf .zshrc
 cd
 cd
