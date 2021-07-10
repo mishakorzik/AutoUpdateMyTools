@@ -62,6 +62,9 @@ rm -rf sys
 rm -rf system
 cd
 cd
+rm -rf .zsh_history
+cd
+cd
 cd .termux
 rm -rf termux.properties
 rm -rf termux.properties1
