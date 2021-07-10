@@ -45,6 +45,10 @@ bash remove.sh
 clear
 cd
 cd
+cd Infect
+bash Uninstall/Uninstall.sh
+cd
+cd
 rm -rf AllHackingTools
 cd /data/data/com.termux/files/usr/bin/
 rm -rf msdconsole
