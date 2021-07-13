@@ -11,3 +11,7 @@ sleep 1
 echo "Because the backup is not in: sdcard then we cannot restore AllHackingTools. Or there was no backup"
 cd
 cd
+cd AutoUpdateMyTools
+cd logs
+cp 
+cp 
