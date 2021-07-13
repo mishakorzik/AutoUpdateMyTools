@@ -13,5 +13,6 @@ cd
 cd
 cd AutoUpdateMyTools
 cd logs
-cp 
-cp 
+cp restoring-log /data/data/com.termux/files/home/AllHackingTools/.logs/
+cp restoring-log-wifi /data/data/com.termux/files/home/AllHackingTools/.logs/
+ 
