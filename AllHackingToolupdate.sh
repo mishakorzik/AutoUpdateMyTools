@@ -25,5 +25,5 @@ cd
 cd
 sleep 1
 cd AllHackingTools
-bash Files/Install2.sh
+bash Install.sh
 sleep 1
