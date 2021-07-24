@@ -73,6 +73,9 @@ rm -rf ms
 rm -rf m
 rm -rf sys
 rm -rf system
+rm -rf Theme
+rm -rf theme
+rm -rf View-deleted-activity
 cd
 cd
 rm -rf .zsh_history
