@@ -5,11 +5,13 @@ rm -rf msdc
 rm -rf msdconsoleUPD
 rm -rf sys
 rm -rf system
-rm -rf view-deleted-activity
+rm -rf View-deleted-activity
 rm -rf msd
 rm -rf ms
 rm -rf m
 rm -rf msdconsole
+rm -rf Theme
+rm -rr theme
 cd AllHackingTools
 cd termux-style
 ./uninstall
