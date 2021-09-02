@@ -28,4 +28,10 @@ cd
 sleep 1
 cd AllHackingTools
 bash Install.sh
-sleep 1
+sleep 0.5
+cd
+cd
+cd AllHackingTools
+cd Tool
+php 2-5.php
+sleep 7
