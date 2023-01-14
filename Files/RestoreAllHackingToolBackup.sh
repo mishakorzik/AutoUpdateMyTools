@@ -1,6 +1,5 @@
 cd
 cd
-rm -rf AllHackingTools
 echo "Restoring AllHackingTools backup..."
 cd /sdcard/ && cp -r AllHackingTools /data/data/com.termux/files/home/
 cd && bash AllHackingTools/.settings/RestoreAllHackingToolsBackup.sh
